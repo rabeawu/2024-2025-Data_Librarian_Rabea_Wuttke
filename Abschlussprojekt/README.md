@@ -1,12 +1,12 @@
-\# Webscrapper für Forschungssoftware mit Bezug zur Goethe Universität Frankfurt
+\# Metadaten-Fetcher für Forschungssoftware von Angehörigen der Goethe-Universität (GU)
 
 
 
-entstanden als Abschlussprojekt des Data Librarian-Kurs an der TH Köln 2024/2025
+entstanden als Abschlussprojekt des Data Librarian-Kurs an der TH Köln 2024/2025, von Rabea Wuttke
 
 
 
-\*\*Ziel:\*\* ein Verzeichnis von Forschungssoftware, die von Forschenden der Goethe Uni erstellt und veröffentlicht wurde
+\*\*Ziel:\*\* Forschungssoftware in der Hochschulbibliographie abbilden
 
 
 
@@ -14,5 +14,5 @@ entstanden als Abschlussprojekt des Data Librarian-Kurs an der TH Köln 2024/202
 
 
 
-
+Anmerkung: GitHub-Ergebnisse nicht brauchbar (fehlende Klarnamen und ungenaue Bezeichnungen der Projekte)
 
