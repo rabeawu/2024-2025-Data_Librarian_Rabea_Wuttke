@@ -10,7 +10,7 @@ entstanden als Abschlussprojekt des Data Librarian-Kurs an der TH Köln 2024/202
 
 **Anmerkung:** GitHub-Ergebnisse nicht brauchbar (fehlende Klarnamen und ungenaue Bezeichnungen der Projekte)
 
-Im Ordner "code" liegen Bausteine, um nach .cff-Dateien zu filtern oder nicht vorhandene Titel mit der Überschrift aus dem README zu ersetzen. 
+Im Ordner [code](./code/) liegen Bausteine, um nach .cff-Dateien zu filtern oder nicht vorhandene Titel mit der Überschrift aus dem README zu ersetzen. 
 
 
 ## Zitierweise
@@ -42,7 +42,7 @@ Created as a final project for the Data Librarian course at TH Köln 2024/2025
 
 GitHub results not usable (missing real names and inaccurate project names)
 
-The ‘code’ folder contains modules for filtering .cff files or replacing missing titles with the heading from the README file.
+The [code](./code/) folder contains modules for filtering .cff files or replacing missing titles with the heading from the README file.
 
 
 ## Citation
